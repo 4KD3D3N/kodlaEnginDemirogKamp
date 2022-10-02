@@ -9,5 +9,6 @@ public class ProductManager {
 	// single responsibility principle: tek sorumluluk ilkesi
 	// BİR FONKSİYON SADECE BİR İŞ YAPAR
 	// BİR IF BLOGĞU SADECE BİR İŞ YAPAR...
+	
 
 }
